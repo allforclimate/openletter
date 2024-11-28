@@ -34,7 +34,7 @@
     "image-size": "^1.0.2",
     "node-fetch": "^2.7.0",
     "pg": "^8.5.1",
-    "sanitize-html": "^1.23.0",
+    "sanitize-html": "^2.3.2",
     "slugify": "^1.4.0",
     "url-parse": "^1.4.7"
   },
